@@ -1,4 +1,0 @@
-streamlit
-deepface==0.0.75
-opencv-python-headless
-pillow
